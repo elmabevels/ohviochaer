@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oosufuqui.gladleigh.co.za/sitemap.xml
